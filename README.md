@@ -18,5 +18,3 @@ The purpose of this repository is to:
 - Structures and File Handling  
 - Dynamic Memory Allocation  
 - Small Projects in C  
-
-## 📂 Repository Structure
